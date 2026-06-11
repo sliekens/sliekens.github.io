@@ -1,0 +1,4369 @@
+{
+  "generatedAt": "2026-06-11T21:42:18.990Z",
+  "profile": {
+    "login": "sliekens",
+    "name": "Steven",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1583241?v=4",
+    "bio": "I like code",
+    "company": "",
+    "location": "Belgium",
+    "blog": "",
+    "htmlUrl": "https://github.com/sliekens",
+    "followers": 25,
+    "following": 35,
+    "publicRepos": 104,
+    "createdAt": "2012-03-28T12:21:21Z"
+  },
+  "repos": [
+    {
+      "name": "dotnet-core-appveyor",
+      "description": "An AppVeyor configuration for .NET Core using SDK version 1.0.0-preview2-1-003177",
+      "htmlUrl": "https://github.com/sliekens/dotnet-core-appveyor",
+      "homepage": "",
+      "stars": 20,
+      "forks": 7,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2017-03-04T09:51:18Z",
+      "createdAt": "2016-05-14T09:11:15Z",
+      "hasPages": false,
+      "archived": true,
+      "isFork": false,
+      "openIssues": 2,
+      "pinned": false
+    },
+    {
+      "name": "gw2sdk",
+      "description": "A .NET code library for interacting with the Guild Wars 2 API and game client.",
+      "htmlUrl": "https://github.com/sliekens/gw2sdk",
+      "homepage": "https://sliekens.github.io/gw2sdk/",
+      "stars": 12,
+      "forks": 1,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [
+        "guildwars2"
+      ],
+      "pushedAt": "2026-06-11T04:09:42Z",
+      "createdAt": "2019-05-16T16:18:33Z",
+      "hasPages": true,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 19,
+      "pinned": false
+    },
+    {
+      "name": "shift-up",
+      "description": "Redeem SHiFT codes from a terminal. woot!",
+      "htmlUrl": "https://github.com/sliekens/shift-up",
+      "homepage": "",
+      "stars": 7,
+      "forks": 2,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "topics": [],
+      "pushedAt": "2022-12-08T19:02:09Z",
+      "createdAt": "2018-06-03T02:20:01Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 8,
+      "pinned": false
+    },
+    {
+      "name": "HTTPortable",
+      "description": " RFCs 7230-7237",
+      "htmlUrl": "https://github.com/sliekens/HTTPortable",
+      "homepage": "",
+      "stars": 7,
+      "forks": 2,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2018-08-24T11:14:46Z",
+      "createdAt": "2014-12-01T14:33:49Z",
+      "hasPages": false,
+      "archived": true,
+      "isFork": false,
+      "openIssues": 2,
+      "pinned": false
+    },
+    {
+      "name": "sqlhelpers",
+      "description": "Just a bunch of SQL Server migration helper functions",
+      "htmlUrl": "https://github.com/sliekens/sqlhelpers",
+      "homepage": "",
+      "stars": 4,
+      "forks": 1,
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "topics": [],
+      "pushedAt": "2018-05-05T13:02:39Z",
+      "createdAt": "2016-08-09T08:22:32Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 8,
+      "pinned": false
+    },
+    {
+      "name": "MumbleLink",
+      "description": "Easily read Mumble Link data from memory",
+      "htmlUrl": "https://github.com/sliekens/MumbleLink",
+      "homepage": "",
+      "stars": 2,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2019-05-13T21:00:18Z",
+      "createdAt": "2017-09-09T16:43:56Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "Txt",
+      "description": "A text parsing framework for .NET.",
+      "htmlUrl": "https://github.com/sliekens/Txt",
+      "homepage": "",
+      "stars": 2,
+      "forks": 2,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2018-08-19T14:41:37Z",
+      "createdAt": "2014-12-11T10:52:25Z",
+      "hasPages": false,
+      "archived": true,
+      "isFork": false,
+      "openIssues": 7,
+      "pinned": false
+    },
+    {
+      "name": "devcontainer-features",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/devcontainer-features",
+      "homepage": "",
+      "stars": 1,
+      "forks": 0,
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "topics": [],
+      "pushedAt": "2026-05-30T14:47:29Z",
+      "createdAt": "2026-03-26T23:28:55Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "gw2-xpadder",
+      "description": "Xpadder profiles for Guild Wars 2",
+      "htmlUrl": "https://github.com/sliekens/gw2-xpadder",
+      "homepage": "",
+      "stars": 1,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2015-11-16T22:08:47Z",
+      "createdAt": "2015-11-14T23:44:53Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "aspire-kit",
+      "description": "A community project with additional components and extensions for Aspire",
+      "htmlUrl": "https://github.com/sliekens/aspire-kit",
+      "homepage": "https://aspire.dev/community/contributors/#-aspire-community-toolkit-contributors",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2026-06-11T20:55:00Z",
+      "createdAt": "2026-05-19T19:27:53Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "sliekens.github.io",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/sliekens.github.io",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2026-06-11T16:40:29Z",
+      "createdAt": "2026-06-11T16:40:28Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "aspire-glitchtip",
+      "description": "aspire🤝glitchtip",
+      "htmlUrl": "https://github.com/sliekens/aspire-glitchtip",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2026-06-08T22:49:48Z",
+      "createdAt": "2026-06-07T22:03:00Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "aspire",
+      "description": "An opinionated, cloud ready stack for building observable, production ready, distributed applications in .NET",
+      "htmlUrl": "https://github.com/sliekens/aspire",
+      "homepage": "https://learn.microsoft.com/dotnet/aspire",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2026-06-08T21:03:16Z",
+      "createdAt": "2024-07-02T21:20:10Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "agentic",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/agentic",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2026-06-06T13:10:50Z",
+      "createdAt": "2026-03-26T22:49:06Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "rustls-native-certs",
+      "description": "Integration with OS certificate stores for rustls",
+      "htmlUrl": "https://github.com/sliekens/rustls-native-certs",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2026-05-30T16:14:54Z",
+      "createdAt": "2026-05-29T16:42:39Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "devcontainer-dev-certs",
+      "description": "Dev certs in dev containers with vscode",
+      "htmlUrl": "https://github.com/sliekens/devcontainer-dev-certs",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2026-05-24T09:20:13Z",
+      "createdAt": "2026-05-24T13:54:44Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "dev-container-certs-fun",
+      "description": "🕵️",
+      "htmlUrl": "https://github.com/sliekens/dev-container-certs-fun",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2026-05-24T01:20:26Z",
+      "createdAt": "2026-05-24T00:54:44Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "htmlUrl": "https://github.com/sliekens/openclaw",
+      "homepage": "https://openclaw.ai",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "topics": [],
+      "pushedAt": "2026-05-18T10:47:27Z",
+      "createdAt": "2026-02-10T22:36:54Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "FreshRSS",
+      "description": "A free, self-hostable news aggregator…",
+      "htmlUrl": "https://github.com/sliekens/FreshRSS",
+      "homepage": "https://freshrss.org",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2026-05-06T22:15:20Z",
+      "createdAt": "2026-05-02T15:49:14Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "nasync-community-guide",
+      "description": "Ugreen NASync Community guide",
+      "htmlUrl": "https://github.com/sliekens/nasync-community-guide",
+      "homepage": "https://guide.ugreen.community",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2026-05-02T11:39:07Z",
+      "createdAt": "2025-12-12T16:04:50Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "ha-core",
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "htmlUrl": "https://github.com/sliekens/ha-core",
+      "homepage": "https://www.home-assistant.io",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "topics": [],
+      "pushedAt": "2026-04-10T11:28:17Z",
+      "createdAt": "2025-07-09T16:42:18Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "devcontainers.github.io",
+      "description": "Web content for the development containers specification.",
+      "htmlUrl": "https://github.com/sliekens/devcontainers.github.io",
+      "homepage": "https://containers.dev",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2026-04-09T11:13:40Z",
+      "createdAt": "2026-04-01T20:15:52Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "aiohue",
+      "description": "Python3 asyncio package to talk to Philips Hue",
+      "htmlUrl": "https://github.com/sliekens/aiohue",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2026-04-07T21:41:09Z",
+      "createdAt": "2025-09-09T13:07:43Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "ansible-documentation",
+      "description": "Ansible community documentation",
+      "htmlUrl": "https://github.com/sliekens/ansible-documentation",
+      "homepage": "https://docs.ansible.com/",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "topics": [],
+      "pushedAt": "2026-02-22T09:40:40Z",
+      "createdAt": "2026-02-22T09:05:39Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "blish-hud-modules",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/blish-hud-modules",
+      "homepage": "",
+      "stars": 0,
+      "forks": 1,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2026-01-26T21:07:30Z",
+      "createdAt": "2024-11-29T23:47:32Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 1,
+      "pinned": false
+    },
+    {
+      "name": "Blish-HUD",
+      "description": "A Guild Wars 2 overlay with extreme extensibility through compiled modules.",
+      "htmlUrl": "https://github.com/sliekens/Blish-HUD",
+      "homepage": "https://blishhud.com",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2026-01-24T19:15:36Z",
+      "createdAt": "2021-07-11T18:21:25Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "Polyfill",
+      "description": "Source only package that exposes newer APIs, .net features, and C# features to older runtimes.",
+      "htmlUrl": "https://github.com/sliekens/Polyfill",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2026-01-21T18:22:57Z",
+      "createdAt": "2026-01-20T23:22:33Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "aspire-overprompting",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/aspire-overprompting",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2025-11-23T13:21:25Z",
+      "createdAt": "2025-11-23T11:33:55Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "TUnit",
+      "description": "A modern, fast and flexible .NET testing framework ",
+      "htmlUrl": "https://github.com/sliekens/TUnit",
+      "homepage": "https://tunit.dev/",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2025-10-25T23:27:18Z",
+      "createdAt": "2025-10-25T22:50:28Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "dotnet-steel",
+      "description": "A hard-as-steel .NET solution template for mission-critical applications. It sets a solid foundation with strict code style rules, centralized build configuration, and essential project files — for developers who demand strength, clarity, and control in every line of code.",
+      "htmlUrl": "https://github.com/sliekens/dotnet-steel",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [
+        "dotnet",
+        "starter",
+        "template"
+      ],
+      "pushedAt": "2025-10-12T13:08:56Z",
+      "createdAt": "2025-10-11T20:06:15Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "devcontainers-cli",
+      "description": "A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.",
+      "htmlUrl": "https://github.com/sliekens/devcontainers-cli",
+      "homepage": "https://containers.dev",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2025-10-04T16:55:57Z",
+      "createdAt": "2025-10-04T16:55:38Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "docs-2",
+      "description": "The open-source repo for docs.github.com",
+      "htmlUrl": "https://github.com/sliekens/docs-2",
+      "homepage": "https://docs.github.com",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2025-09-08T21:11:06Z",
+      "createdAt": "2025-09-07T09:38:55Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "aspire-samples",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/aspire-samples",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2025-08-22T21:30:57Z",
+      "createdAt": "2025-08-22T21:29:04Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "roslyn",
+      "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+      "htmlUrl": "https://github.com/sliekens/roslyn",
+      "homepage": "https://docs.microsoft.com/dotnet/csharp/roslyn-sdk/",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2025-08-07T21:09:13Z",
+      "createdAt": "2025-08-07T18:41:57Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "synology-kernelmodules",
+      "description": "Extensible method of compiling kernel modules for Synology NAS",
+      "htmlUrl": "https://github.com/sliekens/synology-kernelmodules",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2025-07-22T12:56:06Z",
+      "createdAt": "2025-07-22T12:29:18Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "genaidotnet",
+      "description": "Five lessons, learn how to really apply AI to your .NET Applications",
+      "htmlUrl": "https://github.com/sliekens/genaidotnet",
+      "homepage": "https://aka.ms/genainet",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2025-06-11T18:05:46Z",
+      "createdAt": "2025-06-14T12:12:59Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "efcore",
+      "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+      "htmlUrl": "https://github.com/sliekens/efcore",
+      "homepage": "https://docs.microsoft.com/ef/",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2025-01-04T21:05:37Z",
+      "createdAt": "2025-01-03T22:41:59Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "Docs",
+      "description": "Documentation for ASP.NET and ASP.NET Core",
+      "htmlUrl": "https://github.com/sliekens/Docs",
+      "homepage": "https://docs.microsoft.com/aspnet",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2024-09-23T22:52:45Z",
+      "createdAt": "2019-02-28T09:10:19Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "Scaffolding",
+      "description": "Code generators to speed up development.",
+      "htmlUrl": "https://github.com/sliekens/Scaffolding",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2024-07-14T00:08:04Z",
+      "createdAt": "2024-07-14T00:07:07Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "aspirational-manifests",
+      "description": "Handle deployments of  .NET Aspire AppHost Projects",
+      "htmlUrl": "https://github.com/sliekens/aspirational-manifests",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2024-07-13T09:45:07Z",
+      "createdAt": "2024-07-13T09:41:08Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "letslearn-dotnet-aspire",
+      "description": "Let's Learn .NET Aspire workshop material!",
+      "htmlUrl": "https://github.com/sliekens/letslearn-dotnet-aspire",
+      "homepage": "https://aka.ms/dotnet-aspire",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2024-07-08T18:15:33Z",
+      "createdAt": "2024-06-30T17:40:08Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "images",
+      "description": "Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers",
+      "htmlUrl": "https://github.com/sliekens/images",
+      "homepage": "https://containers.dev",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2024-06-20T20:32:45Z",
+      "createdAt": "2024-06-17T14:56:48Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "Ocelot",
+      "description": ".NET API Gateway",
+      "htmlUrl": "https://github.com/sliekens/Ocelot",
+      "homepage": "https://www.nuget.org/packages/Ocelot",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2024-02-29T08:28:49Z",
+      "createdAt": "2024-01-27T05:27:19Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "PolySharp",
+      "description": "PolySharp provides generated, source-only polyfills for C# language features, to easily use all runtime-agnostic features downlevel. Add a reference, set your C# version to latest and have fun! 🚀",
+      "htmlUrl": "https://github.com/sliekens/PolySharp",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2023-12-05T14:35:37Z",
+      "createdAt": "2023-09-29T18:51:49Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "docs-1",
+      "description": "This repository contains .NET Documentation.",
+      "htmlUrl": "https://github.com/sliekens/docs-1",
+      "homepage": "https://docs.microsoft.com/dotnet",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2023-10-29T12:20:08Z",
+      "createdAt": "2020-01-07T16:47:06Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "vuepress-my-way",
+      "description": "Documentation on GitHub Pages with VuePress",
+      "htmlUrl": "https://github.com/sliekens/vuepress-my-way",
+      "homepage": "",
+      "stars": 0,
+      "forks": 1,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2023-10-08T15:09:44Z",
+      "createdAt": "2022-04-27T20:59:02Z",
+      "hasPages": true,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "Documentation",
+      "description": "Documentation for the IdentityModel family of libraries",
+      "htmlUrl": "https://github.com/sliekens/Documentation",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2023-03-07T09:46:38Z",
+      "createdAt": "2023-03-07T09:42:06Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "diun",
+      "description": "Receive notifications when an image is updated on a Docker registry",
+      "htmlUrl": "https://github.com/sliekens/diun",
+      "homepage": "https://crazymax.dev/diun/",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2022-08-08T10:22:09Z",
+      "createdAt": "2022-08-08T10:20:58Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "vscode-dev-containers",
+      "description": "A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces",
+      "htmlUrl": "https://github.com/sliekens/vscode-dev-containers",
+      "homepage": "https://aka.ms/vscode-remote",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2022-06-01T13:52:23Z",
+      "createdAt": "2022-06-01T13:47:43Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "templating",
+      "description": "This repo contains the Template Engine which is used by dotnet new",
+      "htmlUrl": "https://github.com/sliekens/templating",
+      "homepage": "https://docs.microsoft.com/dotnet/",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2022-04-15T16:09:32Z",
+      "createdAt": "2022-04-15T16:06:49Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "PowerShell",
+      "description": "PowerShell for every system!",
+      "htmlUrl": "https://github.com/sliekens/PowerShell",
+      "homepage": "https://microsoft.com/PowerShell",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2021-08-22T16:40:40Z",
+      "createdAt": "2021-08-22T16:25:51Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "odata-versioning-issue-676",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/odata-versioning-issue-676",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2020-10-25T12:32:38Z",
+      "createdAt": "2020-10-24T21:50:37Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "aspnet-api-versioning",
+      "description": "Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.",
+      "htmlUrl": "https://github.com/sliekens/aspnet-api-versioning",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2020-10-13T16:00:46Z",
+      "createdAt": "2020-10-15T13:54:39Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "fast",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/fast",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2020-07-08T20:48:14Z",
+      "createdAt": "2020-07-08T20:47:02Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "coverlet",
+      "description": "Cross platform code coverage for .NET",
+      "htmlUrl": "https://github.com/sliekens/coverlet",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2020-06-23T12:30:22Z",
+      "createdAt": "2020-06-23T19:00:02Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "devcontainer-host-home",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/devcontainer-host-home",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2020-03-30T15:19:12Z",
+      "createdAt": "2020-03-30T13:39:26Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "dotnet-docker",
+      "description": "Docker images for .NET Core and the .NET Core Tools.",
+      "htmlUrl": "https://github.com/sliekens/dotnet-docker",
+      "homepage": "https://hub.docker.com/_/microsoft-dotnet-core",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2020-02-18T22:50:17Z",
+      "createdAt": "2020-02-18T22:36:16Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "ngx-translate-extract",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/ngx-translate-extract",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "topics": [],
+      "pushedAt": "2019-08-14T09:29:21Z",
+      "createdAt": "2019-08-14T09:04:26Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "mq-dev-patterns",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/mq-dev-patterns",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2019-06-30T18:08:48Z",
+      "createdAt": "2019-06-30T14:30:26Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "tslint-webpack-plugin",
+      "description": "TSLint plugin for Webpack",
+      "htmlUrl": "https://github.com/sliekens/tslint-webpack-plugin",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2019-06-23T10:35:13Z",
+      "createdAt": "2019-06-21T09:29:19Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "CheatSheetSeries",
+      "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+      "htmlUrl": "https://github.com/sliekens/CheatSheetSeries",
+      "homepage": "https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "topics": [],
+      "pushedAt": "2019-04-17T04:10:11Z",
+      "createdAt": "2019-04-18T11:03:30Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "feature-master",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/feature-master",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2019-04-16T17:49:50Z",
+      "createdAt": "2019-04-05T17:04:58Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "oidc-client-js",
+      "description": "OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications",
+      "htmlUrl": "https://github.com/sliekens/oidc-client-js",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2019-01-21T16:43:13Z",
+      "createdAt": "2019-01-21T16:41:42Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "rollup-plugin-vue",
+      "description": "Roll .vue files",
+      "htmlUrl": "https://github.com/sliekens/rollup-plugin-vue",
+      "homepage": "https://vuejs.github.io/rollup-plugin-vue",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "topics": [],
+      "pushedAt": "2019-01-07T09:49:12Z",
+      "createdAt": "2018-12-29T19:21:42Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "vuejs.org",
+      "description": "📄 The official documentation site for Vue.js.",
+      "htmlUrl": "https://github.com/sliekens/vuejs.org",
+      "homepage": "https://vuejs.org",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2019-01-04T08:48:00Z",
+      "createdAt": "2018-12-23T20:15:16Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "DefinitelyTyped",
+      "description": "The repository for high quality TypeScript type definitions.",
+      "htmlUrl": "https://github.com/sliekens/DefinitelyTyped",
+      "homepage": "http://definitelytyped.org/",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "topics": [],
+      "pushedAt": "2019-01-01T10:55:09Z",
+      "createdAt": "2016-11-16T09:48:11Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "winforms",
+      "description": "Windows Forms is a .NET Core UI framework for building Windows desktop applications.",
+      "htmlUrl": "https://github.com/sliekens/winforms",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2018-12-18T13:23:04Z",
+      "createdAt": "2018-12-18T13:17:05Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "IdentityServer4",
+      "description": "OpenID Connect and OAuth 2.0 Framework for ASP.NET Core",
+      "htmlUrl": "https://github.com/sliekens/IdentityServer4",
+      "homepage": "https://identityserver.io",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2018-12-14T11:44:19Z",
+      "createdAt": "2018-05-04T14:52:43Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "dotnet-tools",
+      "description": "A list of tools to extend the .NET Core command line (dotnet)",
+      "htmlUrl": "https://github.com/sliekens/dotnet-tools",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2018-11-25T13:06:29Z",
+      "createdAt": "2018-11-25T13:00:51Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "StevenLiekens.github.io",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/StevenLiekens.github.io",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "topics": [],
+      "pushedAt": "2018-11-13T14:23:40Z",
+      "createdAt": "2018-11-13T14:20:16Z",
+      "hasPages": true,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "azure-activedirectory-library-for-cordova",
+      "description": "ADAL for Cordova",
+      "htmlUrl": "https://github.com/sliekens/azure-activedirectory-library-for-cordova",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2018-09-13T10:56:46Z",
+      "createdAt": "2018-09-13T10:41:19Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "azure-activedirectory-library-for-js",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/azure-activedirectory-library-for-js",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2018-09-07T11:46:15Z",
+      "createdAt": "2018-05-15T11:16:56Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "AutoMapper.Extensions.Microsoft.DependencyInjection",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/AutoMapper.Extensions.Microsoft.DependencyInjection",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2018-07-23T20:53:54Z",
+      "createdAt": "2018-07-23T20:25:55Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "htmlUrl": "https://github.com/sliekens/system-design-primer",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "topics": [],
+      "pushedAt": "2018-07-18T09:35:26Z",
+      "createdAt": "2018-07-18T11:41:41Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "LatestLangVersion",
+      "description": "Upgrade all your projects to C# 7.3 the lazy way.",
+      "htmlUrl": "https://github.com/sliekens/LatestLangVersion",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2018-06-30T00:02:17Z",
+      "createdAt": "2018-06-29T21:36:48Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "ghpcrash",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/ghpcrash",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2018-06-27T18:05:09Z",
+      "createdAt": "2018-06-27T17:54:02Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "BuildPackage",
+      "description": "Build NuGet packages the easy way",
+      "htmlUrl": "https://github.com/sliekens/BuildPackage",
+      "homepage": "https://www.nuget.org/packages/BuildPackage/",
+      "stars": 0,
+      "forks": 1,
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "topics": [],
+      "pushedAt": "2018-06-23T13:27:20Z",
+      "createdAt": "2016-01-20T14:53:20Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 3,
+      "pinned": false
+    },
+    {
+      "name": "lerna",
+      "description": ":dragon: A tool for managing JavaScript projects with multiple packages.",
+      "htmlUrl": "https://github.com/sliekens/lerna",
+      "homepage": "https://lernajs.io",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2018-06-22T15:30:55Z",
+      "createdAt": "2018-06-28T07:59:24Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "explore",
+      "description": "Community-curated topic pages on GitHub",
+      "htmlUrl": "https://github.com/sliekens/explore",
+      "homepage": "https://github.com/topics",
+      "stars": 0,
+      "forks": 0,
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "topics": [],
+      "pushedAt": "2018-06-08T09:23:20Z",
+      "createdAt": "2018-06-08T09:21:06Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "NJsonSchema.CodeGeneration.CLI",
+      "description": "cli to parse json schemas to typescript or c# using NJsonSchema",
+      "htmlUrl": "https://github.com/sliekens/NJsonSchema.CodeGeneration.CLI",
+      "homepage": "http://www.picibird.com/",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2018-06-05T19:27:41Z",
+      "createdAt": "2018-06-05T19:26:13Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "iis-docs",
+      "description": "Documentation for IIS",
+      "htmlUrl": "https://github.com/sliekens/iis-docs",
+      "homepage": "https://docs.microsoft.com/iis",
+      "stars": 0,
+      "forks": 0,
+      "language": "Visual Basic",
+      "languageColor": "hsl(94, 62%, 56%)",
+      "topics": [],
+      "pushedAt": "2018-06-03T15:38:49Z",
+      "createdAt": "2018-06-03T15:36:37Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "ng2-idle",
+      "description": "Responding to idle users in Angular 4+ applications.",
+      "htmlUrl": "https://github.com/sliekens/ng2-idle",
+      "homepage": "https://hackedbychinese.github.io/ng2-idle",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "topics": [],
+      "pushedAt": "2018-03-27T14:32:25Z",
+      "createdAt": "2018-01-20T19:36:10Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "EventEoursingWorkshop",
+      "description": "workshop for eventsoursing",
+      "htmlUrl": "https://github.com/sliekens/EventEoursingWorkshop",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2018-03-15T14:24:05Z",
+      "createdAt": "2018-03-15T14:08:58Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "ng2-idle-mousemove",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/ng2-idle-mousemove",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "languageColor": "",
+      "topics": [],
+      "pushedAt": "2018-01-15T13:58:42Z",
+      "createdAt": "2018-01-15T13:58:41Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "GW2.NET",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/GW2.NET",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2017-11-19T14:11:03Z",
+      "createdAt": "2015-09-13T12:03:37Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "lastpass-cli",
+      "description": "LastPass command line interface tool",
+      "htmlUrl": "https://github.com/sliekens/lastpass-cli",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C",
+      "languageColor": "#555555",
+      "topics": [],
+      "pushedAt": "2017-08-28T07:44:58Z",
+      "createdAt": "2017-08-12T13:02:32Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "KeyTable",
+      "description": "Provides spreadsheet like navigation and event control for an HTML table",
+      "htmlUrl": "https://github.com/sliekens/KeyTable",
+      "homepage": "http://www.sprymedia.co.uk/article/KeyTable",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2017-08-18T13:13:21Z",
+      "createdAt": "2017-02-10T09:14:46Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "platform",
+      "description": "Monorepo for ngrx codebase",
+      "htmlUrl": "https://github.com/sliekens/platform",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "topics": [],
+      "pushedAt": "2017-07-26T04:37:26Z",
+      "createdAt": "2017-07-28T06:50:54Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "ng-idle",
+      "description": "Responding to idle users in AngularJS applications.",
+      "htmlUrl": "https://github.com/sliekens/ng-idle",
+      "homepage": "http://hackedbychinese.github.io/ng-idle",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2017-07-23T20:07:18Z",
+      "createdAt": "2018-01-28T16:56:33Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "download",
+      "description": "file downloading using client-side javascript",
+      "htmlUrl": "https://github.com/sliekens/download",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2017-07-11T12:25:19Z",
+      "createdAt": "2017-07-11T11:39:30Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "Select",
+      "description": "Set of selection API methods and buttons for the DataTables library",
+      "htmlUrl": "https://github.com/sliekens/Select",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2017-05-05T09:51:16Z",
+      "createdAt": "2017-02-16T15:07:38Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "store",
+      "description": "RxJS powered state management for Angular applications, inspired by Redux",
+      "htmlUrl": "https://github.com/sliekens/store",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "topics": [],
+      "pushedAt": "2017-04-12T09:49:43Z",
+      "createdAt": "2017-03-31T07:20:58Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "ng2-toastr",
+      "description": "Bootstrap style toast for angular 2.",
+      "htmlUrl": "https://github.com/sliekens/ng2-toastr",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2017-01-08T11:44:37Z",
+      "createdAt": "2017-01-06T13:48:07Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "Uri",
+      "description": "Implements RFC 3986",
+      "htmlUrl": "https://github.com/sliekens/Uri",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2016-12-31T12:01:00Z",
+      "createdAt": "2016-04-12T20:25:17Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "heroes",
+      "description": "A repo where I dump my files from the ng2 heroes tutorial. This should probably be private but I'm too cheap for that. 🍠",
+      "htmlUrl": "https://github.com/sliekens/heroes",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "topics": [],
+      "pushedAt": "2016-09-30T15:19:28Z",
+      "createdAt": "2016-09-30T15:14:37Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "roundhouse",
+      "description": "RoundhousE is a Database Migration Utility for .NET using sql files and versioning based on source control",
+      "htmlUrl": "https://github.com/sliekens/roundhouse",
+      "homepage": "http://projectroundhouse.org",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2016-06-16T12:45:26Z",
+      "createdAt": "2015-07-06T13:47:22Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "DbContextScope",
+      "description": "A simple and flexible way to manage your Entity Framework DbContext instances",
+      "htmlUrl": "https://github.com/sliekens/DbContextScope",
+      "homepage": "http://mehdi.me/ambient-dbcontext-in-ef6/",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2016-05-20T22:36:23Z",
+      "createdAt": "2016-05-20T21:44:45Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "website",
+      "description": "AppVeyor CI public website.",
+      "htmlUrl": "https://github.com/sliekens/website",
+      "homepage": "http://www.appveyor.com",
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "languageColor": "#663399",
+      "topics": [],
+      "pushedAt": "2016-05-04T21:38:27Z",
+      "createdAt": "2016-05-07T19:36:45Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "bootstrap-daterangepicker",
+      "description": "Date range picker component for Bootstrap",
+      "htmlUrl": "https://github.com/sliekens/bootstrap-daterangepicker",
+      "homepage": "http://www.daterangepicker.com",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "topics": [],
+      "pushedAt": "2016-02-04T13:30:35Z",
+      "createdAt": "2016-02-04T13:16:06Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": true,
+      "openIssues": 0,
+      "pinned": false
+    },
+    {
+      "name": "TestRunnerTests",
+      "description": "",
+      "htmlUrl": "https://github.com/sliekens/TestRunnerTests",
+      "homepage": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "C#",
+      "languageColor": "#178600",
+      "topics": [],
+      "pushedAt": "2015-09-28T17:55:11Z",
+      "createdAt": "2015-09-28T17:54:41Z",
+      "hasPages": false,
+      "archived": false,
+      "isFork": false,
+      "openIssues": 0,
+      "pinned": false
+    }
+  ],
+  "totalStars": 56,
+  "events": [
+    {
+      "id": "13191001625",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-11T20:55:01Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/e530bfdd837b...4acd64f37d69",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "13185363528",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-11T18:45:03Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/2627e97206a7...e530bfdd837b",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "13133324485",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-10T22:02:47Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/bf142db40464...2627e97206a7",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "13133320150",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-10T22:02:40Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/7d536363f3c9...bf142db40464",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10531742346",
+      "repo": "microsoft/aspire",
+      "createdAt": "2026-06-10T20:23:54Z",
+      "detail": "Deploy-time provisioning: no compute-agnostic way for values produced by a running resource to flow into dependent resources' configuration",
+      "url": "https://github.com/microsoft/aspire/issues/18097",
+      "type": "issue",
+      "title": "Opened issue #18097"
+    },
+    {
+      "id": "13070229062",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-09T20:40:34Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/9044186119be...7d536363f3c9",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "13068281752",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-09T19:55:03Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit",
+      "type": "create",
+      "title": "Created branch feat/glitchtip"
+    },
+    {
+      "id": "13046706124",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-09T12:27:27Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/8724c72d0ce5...d9dc6fc02412",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "13017413275",
+      "repo": "sliekens/aspire-glitchtip",
+      "createdAt": "2026-06-08T22:49:49Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-glitchtip/compare/7fc84096a4e2...ffe9c2da5ac2",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "13017305361",
+      "repo": "sliekens/aspire-glitchtip",
+      "createdAt": "2026-06-08T22:46:05Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-glitchtip/compare/d3d6e3305210...7fc84096a4e2",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10429996264",
+      "repo": "microsoft/aspire",
+      "createdAt": "2026-06-08T21:06:27Z",
+      "detail": "",
+      "url": "https://github.com/microsoft/aspire",
+      "type": "pr",
+      "title": "Merged pull request #18022"
+    },
+    {
+      "id": "10429912697",
+      "repo": "microsoft/aspire",
+      "createdAt": "2026-06-08T21:04:13Z",
+      "detail": "",
+      "url": "https://github.com/microsoft/aspire",
+      "type": "pr",
+      "title": "Opened pull request #18022"
+    },
+    {
+      "id": "13013776091",
+      "repo": "sliekens/aspire",
+      "createdAt": "2026-06-08T21:03:17Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire",
+      "type": "create",
+      "title": "Created branch docs/appmodel-endpoints-allocated"
+    },
+    {
+      "id": "13011582307",
+      "repo": "sliekens/aspire-glitchtip",
+      "createdAt": "2026-06-08T20:09:04Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-glitchtip/compare/ab814446a4ec...d3d6e3305210",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10395997465",
+      "repo": "sliekens/gw2sdk",
+      "createdAt": "2026-06-08T07:28:26Z",
+      "detail": "Fix flaky test: Purchase_history_can_be_filtered_by_page fails when account has no buy history",
+      "url": "https://github.com/sliekens/gw2sdk/issues/457",
+      "type": "issue",
+      "title": "Opened issue #457"
+    },
+    {
+      "id": "12976830025",
+      "repo": "sliekens/gw2sdk",
+      "createdAt": "2026-06-08T07:28:13Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/gw2sdk/compare/4e4beda7cd6b...1d964021ab9f",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10395268467",
+      "repo": "sliekens/gw2sdk",
+      "createdAt": "2026-06-08T07:07:24Z",
+      "detail": "Explore TUnit 1.46–1.49 new features for use in tests",
+      "url": "https://github.com/sliekens/gw2sdk/issues/456",
+      "type": "issue",
+      "title": "Labeled issue #456"
+    },
+    {
+      "id": "10395268261",
+      "repo": "sliekens/gw2sdk",
+      "createdAt": "2026-06-08T07:07:24Z",
+      "detail": "Explore TUnit 1.46–1.49 new features for use in tests",
+      "url": "https://github.com/sliekens/gw2sdk/issues/456",
+      "type": "issue",
+      "title": "Opened issue #456"
+    },
+    {
+      "id": "12975983196",
+      "repo": "sliekens/gw2sdk",
+      "createdAt": "2026-06-08T07:06:19Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/gw2sdk/compare/1ae29764c6e1...4e4beda7cd6b",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12962066445",
+      "repo": "sliekens/aspire-glitchtip",
+      "createdAt": "2026-06-07T22:03:24Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-glitchtip",
+      "type": "create",
+      "title": "Created branch master"
+    },
+    {
+      "id": "10360313153",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-06-06T14:10:33Z",
+      "detail": "Add Bitwarden Secrets Manager hosting and client integrations",
+      "url": "https://github.com/CommunityToolkit/Aspire/pull/1329#issuecomment-4639120986",
+      "type": "comment",
+      "title": "Commented on #1329"
+    },
+    {
+      "id": "12918574688",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-06T13:49:21Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/fc6f19da0731...356b6ca2ef7c",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12917585301",
+      "repo": "sliekens/agentic",
+      "createdAt": "2026-06-06T13:10:50Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/agentic/compare/26f66e1fec83...4ed63d98cd60",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12901335006",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-06T00:23:55Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/b3f2def406ab...fc6f19da0731",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12900779422",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-06T00:00:30Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/5cf8d3f2918b...b3f2def406ab",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12900040639",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-05T23:28:20Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/b809e07088e2...5cf8d3f2918b",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12899193256",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-05T22:55:05Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/69a2d18e844c...b809e07088e2",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12898319991",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-05T22:21:48Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/b2732d772e99...69a2d18e844c",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12893334997",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-05T19:52:20Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/69a2d18e844c...b2732d772e99",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10341490329",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-06-05T19:43:24Z",
+      "detail": "",
+      "url": "https://github.com/CommunityToolkit/Aspire/pull/1329#pullrequestreview-4439135288",
+      "type": "review",
+      "title": "Reviewed pull request #1329"
+    },
+    {
+      "id": "12892829509",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-05T19:38:21Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/1f5b920585f0...69a2d18e844c",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12892192960",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-05T19:20:45Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/b7eb71b359f7...1f5b920585f0",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10336055586",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-06-05T17:11:30Z",
+      "detail": "",
+      "url": "https://github.com/CommunityToolkit/Aspire/pull/1329#pullrequestreview-4438145088",
+      "type": "review",
+      "title": "Reviewed pull request #1329"
+    },
+    {
+      "id": "10335932765",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-06-05T17:08:02Z",
+      "detail": "",
+      "url": "https://github.com/CommunityToolkit/Aspire/pull/1329#pullrequestreview-4438126754",
+      "type": "review",
+      "title": "Reviewed pull request #1329"
+    },
+    {
+      "id": "12887005103",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-05T17:07:32Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/4f1b8863effa...b7eb71b359f7",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12885901288",
+      "repo": "sliekens/agentic",
+      "createdAt": "2026-06-05T16:40:18Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/agentic/compare/2c455afaa348...26f66e1fec83",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12850164259",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-05T00:35:56Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/8746c19130f3...4f1b8863effa",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12840756968",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-04T19:46:41Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/5c2f174814dc...8746c19130f3",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12840545127",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-04T19:41:16Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/9db24c3f2575...5c2f174814dc",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12834029378",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-04T16:52:53Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/b687e423e50c...9db24c3f2575",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12833656815",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-04T16:47:07Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/2cab9234f0aa...b687e423e50c",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10205886442",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-06-03T00:48:14Z",
+      "detail": "",
+      "url": "https://github.com/CommunityToolkit/Aspire/pull/1329#pullrequestreview-4414706129",
+      "type": "review",
+      "title": "Reviewed pull request #1329"
+    },
+    {
+      "id": "10205708099",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-06-03T00:43:27Z",
+      "detail": "",
+      "url": "https://github.com/CommunityToolkit/Aspire/pull/1329#pullrequestreview-4414648157",
+      "type": "review",
+      "title": "Reviewed pull request #1329"
+    },
+    {
+      "id": "10205150486",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-06-03T00:32:06Z",
+      "detail": "",
+      "url": "https://github.com/CommunityToolkit/Aspire/pull/1329#pullrequestreview-4414655737",
+      "type": "review",
+      "title": "Reviewed pull request #1329"
+    },
+    {
+      "id": "12738141101",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-02T23:57:21Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/41d9806af0cb...2cab9234f0aa",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12735894452",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-02T22:35:37Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/d73da877b428...41d9806af0cb",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10181514751",
+      "repo": "bitwarden/sdk-sm",
+      "createdAt": "2026-06-02T13:32:04Z",
+      "detail": "[.NET] BitwardenClient fails on Linux when SSL_CERT_DIR contains multiple colon-separated paths",
+      "url": "https://github.com/bitwarden/sdk-sm/issues/1522#issuecomment-4602885758",
+      "type": "comment",
+      "title": "Commented on #1522"
+    },
+    {
+      "id": "10146863799",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-06-01T19:36:19Z",
+      "detail": "",
+      "url": "https://github.com/CommunityToolkit/Aspire",
+      "type": "pr",
+      "title": "Merged pull request #1382"
+    },
+    {
+      "id": "10145903382",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-06-01T19:10:00Z",
+      "detail": "",
+      "url": "https://github.com/CommunityToolkit/Aspire",
+      "type": "pr",
+      "title": "Opened pull request #1382"
+    },
+    {
+      "id": "12671614826",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-01T19:09:02Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit",
+      "type": "create",
+      "title": "Created branch a_pull_request_you_cant_refuse"
+    },
+    {
+      "id": "10142452817",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-06-01T17:36:12Z",
+      "detail": "",
+      "url": "https://github.com/CommunityToolkit/Aspire/pull/1329#pullrequestreview-4403353050",
+      "type": "review",
+      "title": "Reviewed pull request #1329"
+    },
+    {
+      "id": "12667615980",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-06-01T17:35:38Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/0758df7ce087...d73da877b428",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10142376405",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-06-01T17:34:18Z",
+      "detail": "",
+      "url": "https://github.com/CommunityToolkit/Aspire/pull/1329#pullrequestreview-4403342011",
+      "type": "review",
+      "title": "Reviewed pull request #1329"
+    },
+    {
+      "id": "10126227234",
+      "repo": "rustls/rustls-native-certs",
+      "createdAt": "2026-06-01T10:56:55Z",
+      "detail": "",
+      "url": "https://github.com/rustls/rustls-native-certs",
+      "type": "pr",
+      "title": "Merged pull request #242"
+    },
+    {
+      "id": "10117708644",
+      "repo": "sliekens/gw2sdk",
+      "createdAt": "2026-06-01T07:11:19Z",
+      "detail": "Investigate GetAlternateLookup for dictionary/HashSet lookups (Polyfill 10.6+)",
+      "url": "https://github.com/sliekens/gw2sdk/issues/453",
+      "type": "issue",
+      "title": "Labeled issue #453"
+    },
+    {
+      "id": "10117708435",
+      "repo": "sliekens/gw2sdk",
+      "createdAt": "2026-06-01T07:11:18Z",
+      "detail": "Investigate GetAlternateLookup for dictionary/HashSet lookups (Polyfill 10.6+)",
+      "url": "https://github.com/sliekens/gw2sdk/issues/453",
+      "type": "issue",
+      "title": "Opened issue #453"
+    },
+    {
+      "id": "12640038629",
+      "repo": "sliekens/gw2sdk",
+      "createdAt": "2026-06-01T07:10:59Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/gw2sdk/compare/c5e8a0e15694...1ae29764c6e1",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10117365249",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-06-01T07:00:18Z",
+      "detail": "",
+      "url": "https://github.com/CommunityToolkit/Aspire/pull/1329#pullrequestreview-4399023961",
+      "type": "review",
+      "title": "Reviewed pull request #1329"
+    },
+    {
+      "id": "12625307739",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T21:24:24Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/ea1d481e7874...0758df7ce087",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12623422892",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T20:05:01Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/ca6005080a03...ea1d481e7874",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10104306620",
+      "repo": "CommunityToolkit/Aspire",
+      "createdAt": "2026-05-31T18:30:26Z",
+      "detail": "Add Bitwarden Secrets Manager hosting and client integrations",
+      "url": "https://github.com/CommunityToolkit/Aspire/pull/1329#issuecomment-4587654506",
+      "type": "comment",
+      "title": "Commented on #1329"
+    },
+    {
+      "id": "12620389707",
+      "repo": "sliekens/agentic",
+      "createdAt": "2026-05-31T18:03:23Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/agentic/compare/390bc52125c3...2c455afaa348",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12620167858",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T17:55:04Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/b69b75dea744...ca6005080a03",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12619390199",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T17:23:34Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/14e36207fd72...b69b75dea744",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12618512810",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T16:49:12Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/f7cf2c3f84da...14e36207fd72",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12618353345",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T16:42:49Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/edadbbcb2c49...f7cf2c3f84da",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12617135577",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T15:56:50Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/be3e66de847f...edadbbcb2c49",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12616409935",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T15:28:36Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/ff11ce423766...be3e66de847f",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12612385514",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T12:50:14Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/e83d1a57bb89...ff11ce423766",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12611562348",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T12:14:23Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/a9934f45c7bc...e83d1a57bb89",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12611559043",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T12:14:15Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/affc6085893d...a9934f45c7bc",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12610551622",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T11:30:47Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/ce46974ebf87...affc6085893d",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12610130531",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T11:11:12Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/821caf11ea93...ce46974ebf87",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12609719298",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T10:52:55Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/e1e56bc8a1a6...821caf11ea93",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12598273348",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T00:53:50Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/418d00f4e2f2...e1e56bc8a1a6",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12598076188",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T00:42:13Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/a0958d332f29...418d00f4e2f2",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12597683718",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-31T00:19:39Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/7688ecf70b7e...a0958d332f29",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12596777943",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-30T23:30:02Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/2865e4707f82...7688ecf70b7e",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10085043395",
+      "repo": "rustls/rustls-native-certs",
+      "createdAt": "2026-05-30T16:15:59Z",
+      "detail": "",
+      "url": "https://github.com/rustls/rustls-native-certs/pull/242#pullrequestreview-4395618954",
+      "type": "review",
+      "title": "Reviewed pull request #242"
+    },
+    {
+      "id": "12587426656",
+      "repo": "sliekens/rustls-native-certs",
+      "createdAt": "2026-05-30T16:14:54Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/rustls-native-certs/compare/a217f4832c51...1a51788d0c2f",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12587412488",
+      "repo": "sliekens/rustls-native-certs",
+      "createdAt": "2026-05-30T16:14:17Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/rustls-native-certs/compare/38a771c67e7a...a217f4832c51",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12585280380",
+      "repo": "sliekens/devcontainer-features",
+      "createdAt": "2026-05-30T14:47:30Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/devcontainer-features/compare/475f6f15c955...1c7af4321061",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10083418391",
+      "repo": "microsoft/aspire",
+      "createdAt": "2026-05-30T14:13:20Z",
+      "detail": "",
+      "url": "https://github.com/microsoft/aspire/pull/17722#pullrequestreview-4395489294",
+      "type": "review",
+      "title": "Reviewed pull request #17722"
+    },
+    {
+      "id": "12582286251",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-30T12:41:48Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/c798aa88626f...2865e4707f82",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10081884209",
+      "repo": "microsoft/aspire",
+      "createdAt": "2026-05-30T12:08:37Z",
+      "detail": "",
+      "url": "https://github.com/microsoft/aspire/pull/17722#pullrequestreview-4395313492",
+      "type": "review",
+      "title": "Reviewed pull request #17722"
+    },
+    {
+      "id": "12569924980",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-30T02:24:52Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/2a8d297e6b88...c798aa88626f",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "10073059979",
+      "repo": "microsoft/aspire",
+      "createdAt": "2026-05-30T00:34:31Z",
+      "detail": "Add `ParameterProcessor.SetValueAsync` and `ParameterResource.TryGetCurrentValue` for programmatic parameter value management",
+      "url": "https://github.com/microsoft/aspire/issues/17710",
+      "type": "issue",
+      "title": "Opened issue #17710"
+    },
+    {
+      "id": "12566783139",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-29T23:54:33Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/676695b5eeda...2a8d297e6b88",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12565646247",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-29T23:09:00Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/eb9cd435ce98...676695b5eeda",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    },
+    {
+      "id": "12565310675",
+      "repo": "sliekens/aspire-kit",
+      "createdAt": "2026-05-29T22:56:02Z",
+      "detail": "",
+      "url": "https://github.com/sliekens/aspire-kit/compare/9fc69d6a49db...eb9cd435ce98",
+      "type": "push",
+      "title": "Pushed 0 commits"
+    }
+  ],
+  "calendar": {
+    "total": 1017,
+    "weeks": [
+      {
+        "days": [
+          {
+            "date": "2025-06-08",
+            "count": 0
+          },
+          {
+            "date": "2025-06-09",
+            "count": 0
+          },
+          {
+            "date": "2025-06-10",
+            "count": 0
+          },
+          {
+            "date": "2025-06-11",
+            "count": 0
+          },
+          {
+            "date": "2025-06-12",
+            "count": 1
+          },
+          {
+            "date": "2025-06-13",
+            "count": 0
+          },
+          {
+            "date": "2025-06-14",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-06-15",
+            "count": 0
+          },
+          {
+            "date": "2025-06-16",
+            "count": 0
+          },
+          {
+            "date": "2025-06-17",
+            "count": 0
+          },
+          {
+            "date": "2025-06-18",
+            "count": 0
+          },
+          {
+            "date": "2025-06-19",
+            "count": 0
+          },
+          {
+            "date": "2025-06-20",
+            "count": 0
+          },
+          {
+            "date": "2025-06-21",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-06-22",
+            "count": 0
+          },
+          {
+            "date": "2025-06-23",
+            "count": 1
+          },
+          {
+            "date": "2025-06-24",
+            "count": 0
+          },
+          {
+            "date": "2025-06-25",
+            "count": 0
+          },
+          {
+            "date": "2025-06-26",
+            "count": 0
+          },
+          {
+            "date": "2025-06-27",
+            "count": 0
+          },
+          {
+            "date": "2025-06-28",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-06-29",
+            "count": 0
+          },
+          {
+            "date": "2025-06-30",
+            "count": 0
+          },
+          {
+            "date": "2025-07-01",
+            "count": 0
+          },
+          {
+            "date": "2025-07-02",
+            "count": 0
+          },
+          {
+            "date": "2025-07-03",
+            "count": 0
+          },
+          {
+            "date": "2025-07-04",
+            "count": 0
+          },
+          {
+            "date": "2025-07-05",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-07-06",
+            "count": 0
+          },
+          {
+            "date": "2025-07-07",
+            "count": 0
+          },
+          {
+            "date": "2025-07-08",
+            "count": 0
+          },
+          {
+            "date": "2025-07-09",
+            "count": 1
+          },
+          {
+            "date": "2025-07-10",
+            "count": 0
+          },
+          {
+            "date": "2025-07-11",
+            "count": 0
+          },
+          {
+            "date": "2025-07-12",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-07-13",
+            "count": 0
+          },
+          {
+            "date": "2025-07-14",
+            "count": 0
+          },
+          {
+            "date": "2025-07-15",
+            "count": 0
+          },
+          {
+            "date": "2025-07-16",
+            "count": 1
+          },
+          {
+            "date": "2025-07-17",
+            "count": 0
+          },
+          {
+            "date": "2025-07-18",
+            "count": 0
+          },
+          {
+            "date": "2025-07-19",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-07-20",
+            "count": 1
+          },
+          {
+            "date": "2025-07-21",
+            "count": 0
+          },
+          {
+            "date": "2025-07-22",
+            "count": 2
+          },
+          {
+            "date": "2025-07-23",
+            "count": 0
+          },
+          {
+            "date": "2025-07-24",
+            "count": 0
+          },
+          {
+            "date": "2025-07-25",
+            "count": 0
+          },
+          {
+            "date": "2025-07-26",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-07-27",
+            "count": 15
+          },
+          {
+            "date": "2025-07-28",
+            "count": 1
+          },
+          {
+            "date": "2025-07-29",
+            "count": 5
+          },
+          {
+            "date": "2025-07-30",
+            "count": 0
+          },
+          {
+            "date": "2025-07-31",
+            "count": 4
+          },
+          {
+            "date": "2025-08-01",
+            "count": 0
+          },
+          {
+            "date": "2025-08-02",
+            "count": 57
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-08-03",
+            "count": 62
+          },
+          {
+            "date": "2025-08-04",
+            "count": 7
+          },
+          {
+            "date": "2025-08-05",
+            "count": 0
+          },
+          {
+            "date": "2025-08-06",
+            "count": 0
+          },
+          {
+            "date": "2025-08-07",
+            "count": 4
+          },
+          {
+            "date": "2025-08-08",
+            "count": 0
+          },
+          {
+            "date": "2025-08-09",
+            "count": 11
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-08-10",
+            "count": 19
+          },
+          {
+            "date": "2025-08-11",
+            "count": 0
+          },
+          {
+            "date": "2025-08-12",
+            "count": 2
+          },
+          {
+            "date": "2025-08-13",
+            "count": 0
+          },
+          {
+            "date": "2025-08-14",
+            "count": 6
+          },
+          {
+            "date": "2025-08-15",
+            "count": 8
+          },
+          {
+            "date": "2025-08-16",
+            "count": 6
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-08-17",
+            "count": 9
+          },
+          {
+            "date": "2025-08-18",
+            "count": 0
+          },
+          {
+            "date": "2025-08-19",
+            "count": 2
+          },
+          {
+            "date": "2025-08-20",
+            "count": 0
+          },
+          {
+            "date": "2025-08-21",
+            "count": 6
+          },
+          {
+            "date": "2025-08-22",
+            "count": 7
+          },
+          {
+            "date": "2025-08-23",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-08-24",
+            "count": 0
+          },
+          {
+            "date": "2025-08-25",
+            "count": 0
+          },
+          {
+            "date": "2025-08-26",
+            "count": 0
+          },
+          {
+            "date": "2025-08-27",
+            "count": 0
+          },
+          {
+            "date": "2025-08-28",
+            "count": 0
+          },
+          {
+            "date": "2025-08-29",
+            "count": 1
+          },
+          {
+            "date": "2025-08-30",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-08-31",
+            "count": 0
+          },
+          {
+            "date": "2025-09-01",
+            "count": 0
+          },
+          {
+            "date": "2025-09-02",
+            "count": 0
+          },
+          {
+            "date": "2025-09-03",
+            "count": 8
+          },
+          {
+            "date": "2025-09-04",
+            "count": 4
+          },
+          {
+            "date": "2025-09-05",
+            "count": 5
+          },
+          {
+            "date": "2025-09-06",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-09-07",
+            "count": 5
+          },
+          {
+            "date": "2025-09-08",
+            "count": 1
+          },
+          {
+            "date": "2025-09-09",
+            "count": 2
+          },
+          {
+            "date": "2025-09-10",
+            "count": 3
+          },
+          {
+            "date": "2025-09-11",
+            "count": 3
+          },
+          {
+            "date": "2025-09-12",
+            "count": 2
+          },
+          {
+            "date": "2025-09-13",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-09-14",
+            "count": 0
+          },
+          {
+            "date": "2025-09-15",
+            "count": 0
+          },
+          {
+            "date": "2025-09-16",
+            "count": 1
+          },
+          {
+            "date": "2025-09-17",
+            "count": 0
+          },
+          {
+            "date": "2025-09-18",
+            "count": 1
+          },
+          {
+            "date": "2025-09-19",
+            "count": 0
+          },
+          {
+            "date": "2025-09-20",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-09-21",
+            "count": 1
+          },
+          {
+            "date": "2025-09-22",
+            "count": 0
+          },
+          {
+            "date": "2025-09-23",
+            "count": 0
+          },
+          {
+            "date": "2025-09-24",
+            "count": 0
+          },
+          {
+            "date": "2025-09-25",
+            "count": 0
+          },
+          {
+            "date": "2025-09-26",
+            "count": 0
+          },
+          {
+            "date": "2025-09-27",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-09-28",
+            "count": 1
+          },
+          {
+            "date": "2025-09-29",
+            "count": 0
+          },
+          {
+            "date": "2025-09-30",
+            "count": 0
+          },
+          {
+            "date": "2025-10-01",
+            "count": 0
+          },
+          {
+            "date": "2025-10-02",
+            "count": 0
+          },
+          {
+            "date": "2025-10-03",
+            "count": 0
+          },
+          {
+            "date": "2025-10-04",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-10-05",
+            "count": 0
+          },
+          {
+            "date": "2025-10-06",
+            "count": 0
+          },
+          {
+            "date": "2025-10-07",
+            "count": 0
+          },
+          {
+            "date": "2025-10-08",
+            "count": 0
+          },
+          {
+            "date": "2025-10-09",
+            "count": 0
+          },
+          {
+            "date": "2025-10-10",
+            "count": 0
+          },
+          {
+            "date": "2025-10-11",
+            "count": 26
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-10-12",
+            "count": 2
+          },
+          {
+            "date": "2025-10-13",
+            "count": 0
+          },
+          {
+            "date": "2025-10-14",
+            "count": 0
+          },
+          {
+            "date": "2025-10-15",
+            "count": 2
+          },
+          {
+            "date": "2025-10-16",
+            "count": 1
+          },
+          {
+            "date": "2025-10-17",
+            "count": 5
+          },
+          {
+            "date": "2025-10-18",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-10-19",
+            "count": 4
+          },
+          {
+            "date": "2025-10-20",
+            "count": 0
+          },
+          {
+            "date": "2025-10-21",
+            "count": 0
+          },
+          {
+            "date": "2025-10-22",
+            "count": 0
+          },
+          {
+            "date": "2025-10-23",
+            "count": 0
+          },
+          {
+            "date": "2025-10-24",
+            "count": 0
+          },
+          {
+            "date": "2025-10-25",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-10-26",
+            "count": 9
+          },
+          {
+            "date": "2025-10-27",
+            "count": 0
+          },
+          {
+            "date": "2025-10-28",
+            "count": 0
+          },
+          {
+            "date": "2025-10-29",
+            "count": 0
+          },
+          {
+            "date": "2025-10-30",
+            "count": 0
+          },
+          {
+            "date": "2025-10-31",
+            "count": 2
+          },
+          {
+            "date": "2025-11-01",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-11-02",
+            "count": 0
+          },
+          {
+            "date": "2025-11-03",
+            "count": 0
+          },
+          {
+            "date": "2025-11-04",
+            "count": 0
+          },
+          {
+            "date": "2025-11-05",
+            "count": 0
+          },
+          {
+            "date": "2025-11-06",
+            "count": 0
+          },
+          {
+            "date": "2025-11-07",
+            "count": 0
+          },
+          {
+            "date": "2025-11-08",
+            "count": 19
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-11-09",
+            "count": 6
+          },
+          {
+            "date": "2025-11-10",
+            "count": 0
+          },
+          {
+            "date": "2025-11-11",
+            "count": 18
+          },
+          {
+            "date": "2025-11-12",
+            "count": 2
+          },
+          {
+            "date": "2025-11-13",
+            "count": 3
+          },
+          {
+            "date": "2025-11-14",
+            "count": 0
+          },
+          {
+            "date": "2025-11-15",
+            "count": 27
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-11-16",
+            "count": 15
+          },
+          {
+            "date": "2025-11-17",
+            "count": 0
+          },
+          {
+            "date": "2025-11-18",
+            "count": 2
+          },
+          {
+            "date": "2025-11-19",
+            "count": 4
+          },
+          {
+            "date": "2025-11-20",
+            "count": 0
+          },
+          {
+            "date": "2025-11-21",
+            "count": 0
+          },
+          {
+            "date": "2025-11-22",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-11-23",
+            "count": 4
+          },
+          {
+            "date": "2025-11-24",
+            "count": 0
+          },
+          {
+            "date": "2025-11-25",
+            "count": 0
+          },
+          {
+            "date": "2025-11-26",
+            "count": 2
+          },
+          {
+            "date": "2025-11-27",
+            "count": 0
+          },
+          {
+            "date": "2025-11-28",
+            "count": 0
+          },
+          {
+            "date": "2025-11-29",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-11-30",
+            "count": 0
+          },
+          {
+            "date": "2025-12-01",
+            "count": 0
+          },
+          {
+            "date": "2025-12-02",
+            "count": 3
+          },
+          {
+            "date": "2025-12-03",
+            "count": 3
+          },
+          {
+            "date": "2025-12-04",
+            "count": 22
+          },
+          {
+            "date": "2025-12-05",
+            "count": 0
+          },
+          {
+            "date": "2025-12-06",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-12-07",
+            "count": 3
+          },
+          {
+            "date": "2025-12-08",
+            "count": 1
+          },
+          {
+            "date": "2025-12-09",
+            "count": 0
+          },
+          {
+            "date": "2025-12-10",
+            "count": 0
+          },
+          {
+            "date": "2025-12-11",
+            "count": 0
+          },
+          {
+            "date": "2025-12-12",
+            "count": 2
+          },
+          {
+            "date": "2025-12-13",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-12-14",
+            "count": 1
+          },
+          {
+            "date": "2025-12-15",
+            "count": 0
+          },
+          {
+            "date": "2025-12-16",
+            "count": 0
+          },
+          {
+            "date": "2025-12-17",
+            "count": 3
+          },
+          {
+            "date": "2025-12-18",
+            "count": 8
+          },
+          {
+            "date": "2025-12-19",
+            "count": 0
+          },
+          {
+            "date": "2025-12-20",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-12-21",
+            "count": 0
+          },
+          {
+            "date": "2025-12-22",
+            "count": 0
+          },
+          {
+            "date": "2025-12-23",
+            "count": 0
+          },
+          {
+            "date": "2025-12-24",
+            "count": 0
+          },
+          {
+            "date": "2025-12-25",
+            "count": 0
+          },
+          {
+            "date": "2025-12-26",
+            "count": 0
+          },
+          {
+            "date": "2025-12-27",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2025-12-28",
+            "count": 0
+          },
+          {
+            "date": "2025-12-29",
+            "count": 0
+          },
+          {
+            "date": "2025-12-30",
+            "count": 0
+          },
+          {
+            "date": "2025-12-31",
+            "count": 0
+          },
+          {
+            "date": "2026-01-01",
+            "count": 2
+          },
+          {
+            "date": "2026-01-02",
+            "count": 0
+          },
+          {
+            "date": "2026-01-03",
+            "count": 25
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-01-04",
+            "count": 23
+          },
+          {
+            "date": "2026-01-05",
+            "count": 5
+          },
+          {
+            "date": "2026-01-06",
+            "count": 8
+          },
+          {
+            "date": "2026-01-07",
+            "count": 16
+          },
+          {
+            "date": "2026-01-08",
+            "count": 7
+          },
+          {
+            "date": "2026-01-09",
+            "count": 0
+          },
+          {
+            "date": "2026-01-10",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-01-11",
+            "count": 23
+          },
+          {
+            "date": "2026-01-12",
+            "count": 2
+          },
+          {
+            "date": "2026-01-13",
+            "count": 0
+          },
+          {
+            "date": "2026-01-14",
+            "count": 1
+          },
+          {
+            "date": "2026-01-15",
+            "count": 6
+          },
+          {
+            "date": "2026-01-16",
+            "count": 5
+          },
+          {
+            "date": "2026-01-17",
+            "count": 17
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-01-18",
+            "count": 31
+          },
+          {
+            "date": "2026-01-19",
+            "count": 10
+          },
+          {
+            "date": "2026-01-20",
+            "count": 2
+          },
+          {
+            "date": "2026-01-21",
+            "count": 4
+          },
+          {
+            "date": "2026-01-22",
+            "count": 3
+          },
+          {
+            "date": "2026-01-23",
+            "count": 2
+          },
+          {
+            "date": "2026-01-24",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-01-25",
+            "count": 0
+          },
+          {
+            "date": "2026-01-26",
+            "count": 4
+          },
+          {
+            "date": "2026-01-27",
+            "count": 0
+          },
+          {
+            "date": "2026-01-28",
+            "count": 3
+          },
+          {
+            "date": "2026-01-29",
+            "count": 3
+          },
+          {
+            "date": "2026-01-30",
+            "count": 0
+          },
+          {
+            "date": "2026-01-31",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-02-01",
+            "count": 0
+          },
+          {
+            "date": "2026-02-02",
+            "count": 0
+          },
+          {
+            "date": "2026-02-03",
+            "count": 0
+          },
+          {
+            "date": "2026-02-04",
+            "count": 0
+          },
+          {
+            "date": "2026-02-05",
+            "count": 0
+          },
+          {
+            "date": "2026-02-06",
+            "count": 0
+          },
+          {
+            "date": "2026-02-07",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-02-08",
+            "count": 6
+          },
+          {
+            "date": "2026-02-09",
+            "count": 1
+          },
+          {
+            "date": "2026-02-10",
+            "count": 4
+          },
+          {
+            "date": "2026-02-11",
+            "count": 0
+          },
+          {
+            "date": "2026-02-12",
+            "count": 0
+          },
+          {
+            "date": "2026-02-13",
+            "count": 0
+          },
+          {
+            "date": "2026-02-14",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-02-15",
+            "count": 0
+          },
+          {
+            "date": "2026-02-16",
+            "count": 0
+          },
+          {
+            "date": "2026-02-17",
+            "count": 0
+          },
+          {
+            "date": "2026-02-18",
+            "count": 0
+          },
+          {
+            "date": "2026-02-19",
+            "count": 0
+          },
+          {
+            "date": "2026-02-20",
+            "count": 0
+          },
+          {
+            "date": "2026-02-21",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-02-22",
+            "count": 6
+          },
+          {
+            "date": "2026-02-23",
+            "count": 3
+          },
+          {
+            "date": "2026-02-24",
+            "count": 2
+          },
+          {
+            "date": "2026-02-25",
+            "count": 0
+          },
+          {
+            "date": "2026-02-26",
+            "count": 0
+          },
+          {
+            "date": "2026-02-27",
+            "count": 0
+          },
+          {
+            "date": "2026-02-28",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-03-01",
+            "count": 0
+          },
+          {
+            "date": "2026-03-02",
+            "count": 0
+          },
+          {
+            "date": "2026-03-03",
+            "count": 0
+          },
+          {
+            "date": "2026-03-04",
+            "count": 0
+          },
+          {
+            "date": "2026-03-05",
+            "count": 0
+          },
+          {
+            "date": "2026-03-06",
+            "count": 0
+          },
+          {
+            "date": "2026-03-07",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-03-08",
+            "count": 7
+          },
+          {
+            "date": "2026-03-09",
+            "count": 2
+          },
+          {
+            "date": "2026-03-10",
+            "count": 0
+          },
+          {
+            "date": "2026-03-11",
+            "count": 9
+          },
+          {
+            "date": "2026-03-12",
+            "count": 0
+          },
+          {
+            "date": "2026-03-13",
+            "count": 1
+          },
+          {
+            "date": "2026-03-14",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-03-15",
+            "count": 1
+          },
+          {
+            "date": "2026-03-16",
+            "count": 0
+          },
+          {
+            "date": "2026-03-17",
+            "count": 0
+          },
+          {
+            "date": "2026-03-18",
+            "count": 0
+          },
+          {
+            "date": "2026-03-19",
+            "count": 0
+          },
+          {
+            "date": "2026-03-20",
+            "count": 0
+          },
+          {
+            "date": "2026-03-21",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-03-22",
+            "count": 0
+          },
+          {
+            "date": "2026-03-23",
+            "count": 0
+          },
+          {
+            "date": "2026-03-24",
+            "count": 0
+          },
+          {
+            "date": "2026-03-25",
+            "count": 0
+          },
+          {
+            "date": "2026-03-26",
+            "count": 1
+          },
+          {
+            "date": "2026-03-27",
+            "count": 15
+          },
+          {
+            "date": "2026-03-28",
+            "count": 12
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-03-29",
+            "count": 4
+          },
+          {
+            "date": "2026-03-30",
+            "count": 5
+          },
+          {
+            "date": "2026-03-31",
+            "count": 0
+          },
+          {
+            "date": "2026-04-01",
+            "count": 17
+          },
+          {
+            "date": "2026-04-02",
+            "count": 7
+          },
+          {
+            "date": "2026-04-03",
+            "count": 2
+          },
+          {
+            "date": "2026-04-04",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-04-05",
+            "count": 2
+          },
+          {
+            "date": "2026-04-06",
+            "count": 12
+          },
+          {
+            "date": "2026-04-07",
+            "count": 11
+          },
+          {
+            "date": "2026-04-08",
+            "count": 0
+          },
+          {
+            "date": "2026-04-09",
+            "count": 1
+          },
+          {
+            "date": "2026-04-10",
+            "count": 0
+          },
+          {
+            "date": "2026-04-11",
+            "count": 6
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-04-12",
+            "count": 0
+          },
+          {
+            "date": "2026-04-13",
+            "count": 2
+          },
+          {
+            "date": "2026-04-14",
+            "count": 1
+          },
+          {
+            "date": "2026-04-15",
+            "count": 0
+          },
+          {
+            "date": "2026-04-16",
+            "count": 0
+          },
+          {
+            "date": "2026-04-17",
+            "count": 0
+          },
+          {
+            "date": "2026-04-18",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-04-19",
+            "count": 5
+          },
+          {
+            "date": "2026-04-20",
+            "count": 3
+          },
+          {
+            "date": "2026-04-21",
+            "count": 0
+          },
+          {
+            "date": "2026-04-22",
+            "count": 0
+          },
+          {
+            "date": "2026-04-23",
+            "count": 0
+          },
+          {
+            "date": "2026-04-24",
+            "count": 0
+          },
+          {
+            "date": "2026-04-25",
+            "count": 0
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-04-26",
+            "count": 2
+          },
+          {
+            "date": "2026-04-27",
+            "count": 2
+          },
+          {
+            "date": "2026-04-28",
+            "count": 0
+          },
+          {
+            "date": "2026-04-29",
+            "count": 0
+          },
+          {
+            "date": "2026-04-30",
+            "count": 2
+          },
+          {
+            "date": "2026-05-01",
+            "count": 4
+          },
+          {
+            "date": "2026-05-02",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-05-03",
+            "count": 8
+          },
+          {
+            "date": "2026-05-04",
+            "count": 1
+          },
+          {
+            "date": "2026-05-05",
+            "count": 3
+          },
+          {
+            "date": "2026-05-06",
+            "count": 0
+          },
+          {
+            "date": "2026-05-07",
+            "count": 0
+          },
+          {
+            "date": "2026-05-08",
+            "count": 0
+          },
+          {
+            "date": "2026-05-09",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-05-10",
+            "count": 8
+          },
+          {
+            "date": "2026-05-11",
+            "count": 0
+          },
+          {
+            "date": "2026-05-12",
+            "count": 1
+          },
+          {
+            "date": "2026-05-13",
+            "count": 3
+          },
+          {
+            "date": "2026-05-14",
+            "count": 22
+          },
+          {
+            "date": "2026-05-15",
+            "count": 13
+          },
+          {
+            "date": "2026-05-16",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-05-17",
+            "count": 3
+          },
+          {
+            "date": "2026-05-18",
+            "count": 4
+          },
+          {
+            "date": "2026-05-19",
+            "count": 2
+          },
+          {
+            "date": "2026-05-20",
+            "count": 1
+          },
+          {
+            "date": "2026-05-21",
+            "count": 1
+          },
+          {
+            "date": "2026-05-22",
+            "count": 0
+          },
+          {
+            "date": "2026-05-23",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-05-24",
+            "count": 6
+          },
+          {
+            "date": "2026-05-25",
+            "count": 3
+          },
+          {
+            "date": "2026-05-26",
+            "count": 1
+          },
+          {
+            "date": "2026-05-27",
+            "count": 1
+          },
+          {
+            "date": "2026-05-28",
+            "count": 2
+          },
+          {
+            "date": "2026-05-29",
+            "count": 3
+          },
+          {
+            "date": "2026-05-30",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-05-31",
+            "count": 1
+          },
+          {
+            "date": "2026-06-01",
+            "count": 3
+          },
+          {
+            "date": "2026-06-02",
+            "count": 0
+          },
+          {
+            "date": "2026-06-03",
+            "count": 1
+          },
+          {
+            "date": "2026-06-04",
+            "count": 1
+          },
+          {
+            "date": "2026-06-05",
+            "count": 0
+          },
+          {
+            "date": "2026-06-06",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "days": [
+          {
+            "date": "2026-06-07",
+            "count": 1
+          },
+          {
+            "date": "2026-06-08",
+            "count": 8
+          },
+          {
+            "date": "2026-06-09",
+            "count": 2
+          },
+          {
+            "date": "2026-06-10",
+            "count": 1
+          },
+          {
+            "date": "2026-06-11",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "source": "graphql"
+  },
+  "languages": [
+    {
+      "name": "C#",
+      "color": "#178600",
+      "repoCount": 14
+    },
+    {
+      "name": "TypeScript",
+      "color": "#3178c6",
+      "repoCount": 2
+    },
+    {
+      "name": "PLpgSQL",
+      "color": "#336790",
+      "repoCount": 1
+    },
+    {
+      "name": "Shell",
+      "color": "#89e051",
+      "repoCount": 1
+    },
+    {
+      "name": "HTML",
+      "color": "#e34c26",
+      "repoCount": 1
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "repoCount": 1
+    },
+    {
+      "name": "PowerShell",
+      "color": "#012456",
+      "repoCount": 1
+    }
+  ]
+}
