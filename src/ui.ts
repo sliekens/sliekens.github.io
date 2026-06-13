@@ -10,6 +10,8 @@ export interface UICallbacks {
   onOpenList(): void;
   /** Toggles render quality; returns the new state (true = high). */
   onToggleQuality(): boolean;
+  /** Toggles sound; returns the new muted state. */
+  onToggleSound(): boolean;
 }
 
 const esc = (s: unknown): string =>
@@ -114,7 +116,6 @@ function renderPanel(ex: Exhibit): string {
     <div class="panel-kind" style="color:${meta.color}">${esc(meta.label)}</div>
     <h2>${esc(ex.title)}</h2>
     ${showSub ? `<p class="panel-sub">${esc(ex.subtitle)}</p>` : ''}
-    ${ex.kind === 'repo' && ex.subtitle ? '' : ''}
     ${body}
     <div class="panel-actions">${actions}</div>
     <div class="demo-slot"></div>`;
@@ -131,6 +132,8 @@ export interface UI {
   toast(msg: string): void;
   toggleHelp(): void;
   setQualityLabel(high: boolean): void;
+  setSoundLabel(muted: boolean): void;
+  setDragMode(on: boolean): void;
   tooltip: {
     show(title: string, sub: string | undefined, x: number, y: number, centered: boolean): void;
     hide(): void;
@@ -161,6 +164,7 @@ export function createUI(cb: UICallbacks): UI {
         <div id="hud-brand">PALACE OF NERDY COLLECTIONS</div>
         <div id="hud-actions">
           <button id="hud-help" class="hud-btn" title="Help (H)">?</button>
+          <button id="hud-mute" class="hud-btn" title="Sound (M)">SND ON</button>
           <button id="hud-quality" class="hud-btn" title="Toggle visual effects">FX HIGH</button>
           <button id="hud-list" class="hud-btn" title="Accessible list view (L)">LIST</button>
         </div>
@@ -184,8 +188,10 @@ export function createUI(cb: UICallbacks): UI {
           <span><b>click</b></span><span>inspect the exhibit under the crosshair</span>
           <span><b>shift</b></span><span>walk faster</span>
           <span><b>1–5</b></span><span>teleport between rooms</span>
+          <span><b>M</b></span><span>sound on / off</span>
           <span><b>L</b></span><span>accessible list view</span>
           <span><b>esc</b></span><span>release the cursor / close panels</span>
+          <span><b>minimap</b></span><span>click a room number to jump there</span>
         </div>
         <p class="help-note">Crystals in the gallery are sized by stars and colored by language. Garden tiles are one day of contributions each. Everything glowing is probably clickable.</p>
         <button class="btn" id="help-close">Back to the museum</button>
@@ -208,17 +214,21 @@ export function createUI(cb: UICallbacks): UI {
   const fadeEl = $('#fade');
   const toasts = $('#toasts');
   const qualityBtn = $<HTMLButtonElement>('#hud-quality');
+  const muteBtn = $<HTMLButtonElement>('#hud-mute');
 
   let entered = false;
   let lockedState = false;
   let panelOpen = false;
   let touchMode = false;
+  let dragMode = false;
 
   function refreshHint(): void {
     let text = '';
     if (entered) {
       if (touchMode) text = panelOpen ? '' : 'Left half: move · right half: look · tap exhibits to inspect';
       else if (lockedState) text = 'Aim at an exhibit and click · ESC frees the cursor';
+      else if (dragMode)
+        text = panelOpen ? 'Click the world to keep exploring' : 'Drag to look around · WASD to walk · click exhibits to inspect';
       else text = panelOpen ? 'Click the world to keep exploring' : 'Click the view to grab the cursor · 1–5 jumps between rooms';
     }
     hint.textContent = text;
@@ -284,6 +294,13 @@ export function createUI(cb: UICallbacks): UI {
     setQualityLabel(high) {
       qualityBtn.textContent = high ? 'FX HIGH' : 'FX LOW';
     },
+    setSoundLabel(muted) {
+      muteBtn.textContent = muted ? 'SND OFF' : 'SND ON';
+    },
+    setDragMode(on) {
+      dragMode = on;
+      refreshHint();
+    },
     tooltip: {
       show(title, sub, x, y, centered) {
         tooltipEl.innerHTML = `<b>${esc(title)}</b>${sub ? `<span>${esc(sub)}</span>` : ''}`;
@@ -328,6 +345,7 @@ export function createUI(cb: UICallbacks): UI {
   $('#hud-help').addEventListener('click', () => api.toggleHelp());
   $('#help-close').addEventListener('click', () => api.toggleHelp());
   qualityBtn.addEventListener('click', () => api.setQualityLabel(cb.onToggleQuality()));
+  muteBtn.addEventListener('click', () => api.setSoundLabel(cb.onToggleSound()));
   $('#hud-nav').addEventListener('click', (e) => {
     const btn = (e.target as HTMLElement).closest('[data-room]') as HTMLElement | null;
     if (btn) cb.onTeleport(btn.getAttribute('data-room')!);

@@ -6,9 +6,11 @@ import { OutputPass } from 'three/addons/postprocessing/OutputPass.js';
 import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
 import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
 
+import { MuseumAudio } from './audio';
 import { PlayerControls } from './controls';
 import { loadGithubData } from './data';
 import { openListView } from './listview';
+import { Minimap } from './minimap';
 import { Picker } from './picker';
 import { createUI } from './ui';
 import type { GithubData } from './github/types';
@@ -35,6 +37,7 @@ async function boot(): Promise<void> {
   let userSetQuality = false;
   let entered = false;
 
+  const audio = new MuseumAudio();
   const ui = createUI({
     onEnter: () => enter(),
     onTeleport: (roomId) => teleport(roomId),
@@ -44,8 +47,10 @@ async function boot(): Promise<void> {
       setQuality(!quality);
       return quality;
     },
+    onToggleSound: () => audio.toggle(),
   });
   ui.setTouch(touch);
+  ui.setSoundLabel(audio.isMuted);
 
   ui.setLoading('Contacting GitHub…');
   let data: GithubData;
@@ -92,8 +97,14 @@ async function boot(): Promise<void> {
       if (ex) select(ex);
     },
     onLockChange: (locked) => ui.setLockState(locked),
+    onLockError: () => {
+      ui.setDragMode(true);
+      ui.toast('Pointer lock unavailable here — drag to look, WASD to walk');
+    },
   });
   controls.teleport(0, 7, 0);
+
+  const minimap = new Minimap((roomId) => teleport(roomId));
 
   const picker = new Picker(
     world.scene,
@@ -140,6 +151,7 @@ async function boot(): Promise<void> {
       ui.tooltip.hide();
       return;
     }
+    if (entered) audio.hover();
     const sub = ex.kind === 'repo' ? ex.subtitle : (ex.subtitle ?? kindHint(ex));
     ui.tooltip.show(ex.title, sub, lastPointer.x, lastPointer.y, controls.locked);
   }
@@ -161,12 +173,14 @@ async function boot(): Promise<void> {
 
   function select(ex: Exhibit): void {
     if (!touch && controls.locked) document.exitPointerLock();
+    audio.select();
     ui.panel.open(ex);
     controls.glideTo(ex.focus);
   }
 
   renderer.domElement.addEventListener('click', () => {
     if (touch || !entered) return;
+    if (controls.wasDragging()) return; // a look-drag is not a click
     const ex = picker.hovered;
     if (controls.locked) {
       if (ex) select(ex);
@@ -181,7 +195,10 @@ async function boot(): Promise<void> {
   function enter(): void {
     entered = true;
     controls.enabled = true;
+    audio.start();
     ui.hideIntro();
+    minimap.setVisible(true);
+    controls.flyIn();
     if (!touch) controls.requestLock();
   }
 
@@ -189,6 +206,7 @@ async function boot(): Promise<void> {
     const anchor = ROOM_ANCHORS.find((a) => a.id === roomId);
     if (!anchor || !entered) return;
     ui.panel.close();
+    audio.whoosh();
     ui.fade(() => controls.teleport(anchor.x, anchor.z, anchor.yaw));
   }
 
@@ -200,6 +218,7 @@ async function boot(): Promise<void> {
     if (anchor) teleport(anchor.id);
     else if (e.code === 'KeyH') ui.toggleHelp();
     else if (e.code === 'KeyL') openListView(data, true);
+    else if (e.code === 'KeyM') ui.setSoundLabel(audio.toggle());
   });
 
   // Render loop with a lightweight auto-quality monitor.
@@ -215,6 +234,15 @@ async function boot(): Promise<void> {
     controls.update(dt);
     picker.update(controls.locked, touch, elapsed);
     for (const update of world.updatables) update(dt, elapsed);
+    minimap.update(controls.pos.x, controls.pos.z, controls.yaw);
+
+    // A touch of extra FOV while sprinting.
+    const targetFov = controls.isSprinting && !reducedMotion ? 78 : 72;
+    if (Math.abs(camera.fov - targetFov) > 0.05) {
+      camera.fov += (targetFov - camera.fov) * Math.min(1, dt * 5);
+      camera.updateProjectionMatrix();
+    }
+
     composer.render();
 
     if (quality && !userSetQuality) {

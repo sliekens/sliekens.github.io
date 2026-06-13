@@ -335,6 +335,31 @@ body.locked #crosshair {
   opacity: 1;
 }
 
+/* ---------- minimap ---------- */
+
+#minimap {
+  position: fixed;
+  left: 14px;
+  bottom: 14px;
+  z-index: 20;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(10, 13, 28, 0.78);
+  backdrop-filter: blur(8px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s;
+  cursor: pointer;
+}
+#minimap.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+body.locked #minimap {
+  opacity: 0.55;
+  pointer-events: none;
+}
+
 /* ---------- tooltip ---------- */
 
 #tooltip {
@@ -734,6 +759,11 @@ body.locked #crosshair {
     bottom: 64px;
     width: auto;
     max-height: 58vh;
+  }
+  #minimap {
+    bottom: 64px;
+    transform: scale(0.78);
+    transform-origin: bottom left;
   }
   #hud-nav {
     max-width: calc(100vw - 12px);

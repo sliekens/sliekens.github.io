@@ -86,10 +86,11 @@ export class WalkableMap {
   }
 }
 
-export function createWalkableMap(): WalkableMap {
+/** Every walkable region; also drives the minimap drawing. */
+export const WALK_SHAPES: Shape[] = (() => {
   const g = ROOMS.garden;
   const pit = GARDEN_PIT;
-  return new WalkableMap([
+  return [
     { kind: 'circle', x: 0, z: 0, r: ROTUNDA_RADIUS },
     CORRIDORS.north,
     CORRIDORS.south,
@@ -103,7 +104,11 @@ export function createWalkableMap(): WalkableMap {
     rect(g.x1, g.x2, pit.z2, g.z2),
     rect(g.x1, pit.x1, g.z1, g.z2),
     rect(pit.x2, g.x2, g.z1, g.z2),
-  ]);
+  ];
+})();
+
+export function createWalkableMap(): WalkableMap {
+  return new WalkableMap(WALK_SHAPES);
 }
 
 export interface RoomAnchor {
